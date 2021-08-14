@@ -7,7 +7,7 @@ Tập kiếm tra (testing) có khoảng 12076 đoạn văn
 - Trích xuất đặc trưng (feature extraction): Sử dụng phương pháp BOW: TF-IDF
 - Lựa chọn đặc trưng (feature selection): Sử dụng phương pháp ChiSquare kết hợp với K-Best method (hệ số k = 25000)
 - Mô hình sử dụng: Support Vector Machine (SVM), Long Short Term Memory (LSTM)
-## 3. Kết quả đạt được
+## 3. Kết quả đạt được ban đầu
 | Mô hình | Accuracy | F1-score |
 |---------|----------|----------|
 |   SVM   |   91%    |    90%   |
